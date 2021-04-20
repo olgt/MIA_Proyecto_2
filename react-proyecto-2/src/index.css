@@ -1,0 +1,201 @@
+body {
+    margin: 1;
+    padding: 2;
+    background-color: #6abadeba;
+    font-family: 'Arial';
+}
+
+.login {
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: #23463f;
+    border-radius: 15px;
+}
+
+.registrar {
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: #5cb4a3;
+    border-radius: 15px;
+}
+
+.registrar label {
+    padding-right: 20px;
+}
+
+.registrar input {
+    float: right;
+}
+
+.registrar input[type="button"] {
+    position: absolute;
+    top: auto;
+    right: auto;
+}
+
+.perfil {
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: #5c65b4;
+    border-radius: 15px;
+}
+
+.perfil label {
+    padding-right: 20px;
+}
+
+#perfilTier {
+    float: right;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.perfil input {
+    float: right;
+}
+
+.perfil input[type="button"] {
+    position: absolute;
+    top: auto;
+    right: auto;
+}
+
+.membresia {
+    width: 70%;
+    overflow: hidden;
+    padding: 80px;
+    background: #c2b85e;
+    border-radius: 15px;
+}
+
+.regresar {
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: #365c49;
+    border-radius: 15px;
+}
+
+.navUser {
+    margin-top: 1%;
+}
+
+h2 {
+    text-align: center;
+    color: #277582;
+    padding: 20px;
+}
+
+label {
+    color: #08ffd1;
+    font-size: 17px;
+}
+
+#Uname {
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+
+#Pass {
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+
+#log {
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    text-align: center;
+    color: blue;
+}
+
+#RegistrarOlvido {
+    background-color: rgb(98, 170, 102);
+}
+
+span {
+    color: white;
+    font-size: 17px;
+}
+
+a {
+    background-color: grey;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li {
+    color: #fff;
+    background-color: rgb(161, 206, 196);
+    text-decoration: none;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+}
+
+table, th, td {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.calendario {
+    width: 900px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: #b1ad73;
+    border-radius: 15px;
+}
+
+.calendario h3 {
+    text-align: center;
+    color: #44a5b6;
+    padding: 20px;
+    background-color: crimson;
+}
+
+.filaCalendario {
+    margin: auto;
+}
+
+.diaCalendario {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    background-color: blanchedalmond;
+    border-color: rgb(112, 94, 94);
+    padding: 10px;
+    margin: 10px, 10px;
+    text-align: center;
+}
